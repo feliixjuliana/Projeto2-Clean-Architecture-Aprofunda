@@ -1,10 +1,31 @@
-## 🚀 Biblioteca TypeScript com Clean Architecture
+# 🚀 Biblioteca TypeScript com Clean Architecture
 
-Este projeto tem como objetivo aprofundar os conceitos de **Clean Architecture**, aplicando-os em uma estrutura de projeto robusta e escalável, com foco na criação de um **sistema de biblioteca**. Focando na separação de preocupações e na manutenibilidade do código.
+Este projeto tem como objetivo aprofundar os conceitos de **Clean Architecture**, aplicando-os em uma estrutura de projeto robusta e escalável, com foco na criação de um **sistema de biblioteca**. 
 
 -----
 
-### Acessando: 
+## 🚀 Funcionalidades
+A API oferece os seguintes endpoints para interação com as tarefas:
+
+GET /books: Lista todas os livros.
+
+POST /books: Cria um novo livro.
+
+🛠️ Conteúdo e Tecnologias
+
+O projeto foi estruturado com base nos seguintes conceitos e ferramentas:
+
+* Clean Architecture
+
+* TypeScript
+
+* Express.js: Framework web para Node.js, utilizado para configurar o servidor e as rotas.
+
+* Testes com Thunder Client/Postman: As funcionalidades da API foram testadas utilizando clientes HTTP como Thunder Client ou Postman.
+
+-----
+
+## Acessando: 
 
 Siga estas instruções para ter uma cópia do projeto funcionando na sua máquina local para desenvolvimento e testes.
 
@@ -57,4 +78,6 @@ Certifique-se de ter as seguintes ferramentas instaladas:
   * ![Captura de tela 2025-06-29 164725](https://github.com/user-attachments/assets/5a9c4edf-4cfb-4a00-93fc-c7fe87136bdc)
 
 -----
+
+
 
