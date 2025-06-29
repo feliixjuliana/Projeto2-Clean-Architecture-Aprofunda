@@ -26,11 +26,15 @@ Certifique-se de ter as seguintes ferramentas instaladas:
     ```bash
     cd Projeto2-Clean-Architecture-Aprofunda
     ```
-3.  **Instale as dependências:**
+3.  **Navegue até o projeto:**
+    ```bash
+    cd api-clean-architecture
+    ```
+4.  **Instale as dependências:**
     ```bash
     npm install
     ```
-4.  **Execute o projeto:**
+5.  **Execute o projeto:**
     ```bash
     npm run start
     ```
