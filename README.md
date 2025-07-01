@@ -1,5 +1,7 @@
 # 🚀 Biblioteca TypeScript com Clean Architecture
 
+Este projeto tem como objetivo aprofundar os conceitos de **Clean Architecture**, aplicando-os em uma estrutura de projeto robusta e escalável, com foco na criação de um **sistema de biblioteca**. 
+
 ## Funcionalidades
 A API oferece os seguintes endpoints para interação com a biblioteca:
 
@@ -79,10 +81,5 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 -----
 
-## Objetivo
-
-Este projeto tem como objetivo aprofundar os conceitos de **Clean Architecture**, aplicando-os em uma estrutura de projeto robusta e escalável, com foco na criação de um **sistema de biblioteca**. 
-
------
 
 
